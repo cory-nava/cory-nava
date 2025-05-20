@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on technical strategy, growth strategy, and more.
 - 📫 How to reach me - Slack first. Email second.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun facts: once held a [Guinness World Record](https://mashable.com/article/wold-record-for-tallest-stack-of-waffles) & [Overturned a State Law at the local level](https://www.denverpost.com/2020/10/08/denver-issue-2h-broadband-internet/).
 
 <!---
 cory-nava/cory-nava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
